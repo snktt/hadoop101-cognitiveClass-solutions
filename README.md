@@ -143,6 +143,8 @@ Q3) Which of the following tools is designed to move data to and from a relation
 
 ### Processing billions of email messages to perform text analytics correct
 
+### ----------------------------------------------------------------------------------------
+
 
 
 
