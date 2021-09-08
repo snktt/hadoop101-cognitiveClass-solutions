@@ -44,7 +44,7 @@ Q2) It is recommended that you start all of the services in Ambari in order to s
 Q3) To remove a node using Ambari, you must first remove all of the services using that node. True or False?
 
 
-### False
+### True
 
 # Module 4: Hadoop Components
 
